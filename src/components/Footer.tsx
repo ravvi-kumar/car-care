@@ -54,22 +54,22 @@ function Footer() {
           <div className="flex gap-2 py-4 text-3xl">
             <a href="https://www.instagram.com/carcare581/" target="_blank">
               <AiFillInstagram
-                className={`${iconStyle} bg-white text-white hover:bg-slate-600 hover:text-white`}
+                className={`${iconStyle} bg-white text-black hover:bg-slate-600 hover:text-white`}
               />
             </a>
             <a href="https://www.facebook.com/" target="_blank">
               <BsFacebook
-                className={`${iconStyle} bg-white text-white hover:bg-slate-600 hover:text-white`}
+                className={`${iconStyle} bg-white text-black hover:bg-slate-600 hover:text-white`}
               />
             </a>
             <a href="https://twitter.com/i/flow/login" target="_blank">
               <BsTwitter
-                className={`${iconStyle} bg-white text-white hover:bg-slate-600 hover:text-white`}
+                className={`${iconStyle} bg-white text-black hover:bg-slate-600 hover:text-white`}
               />
             </a>
             <a href="https://www.linkedin.com/" target="_blank">
               <BsLinkedin
-                className={`${iconStyle} bg-white text-white hover:bg-slate-600 hover:text-white`}
+                className={`${iconStyle} bg-white text-black hover:bg-slate-600 hover:text-white`}
               />
             </a>
           </div>
